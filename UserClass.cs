@@ -19,3 +19,5 @@ namespace TelegramBot
         public Root result;
     }
 }
+
+// gint1k

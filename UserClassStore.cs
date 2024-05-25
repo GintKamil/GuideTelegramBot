@@ -12,3 +12,5 @@ namespace TelegramBot
         public static ConcurrentDictionary<long, UserClass> UserClasses = new ConcurrentDictionary<long, UserClass>();
     }
 }
+
+//gint1k
